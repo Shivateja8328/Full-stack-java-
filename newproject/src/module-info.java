@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author pocha
+ *
+ */
+module newproject {
+}
